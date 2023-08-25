@@ -4,6 +4,10 @@ public class AramaAlgoritmasi {
 
 	public static void main(String[] args) {
 
+		/*
+                   VERİLEN DİZİDEKİ ARANAN ELEMANLARI FARKLI YOLLAR İLE BULMA (CLASS KULLANILARAK)
+	          */
+
 		int sayilar[] = {21, 01, 02, 27, 44, 31, 63, 79, 80, 46};
 		int sayilar2[] = {01, 02, 21, 27, 31, 44, 46, 63, 79, 80};
 		
